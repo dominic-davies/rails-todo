@@ -8,3 +8,18 @@
 table a {
     color: #000;
 }
+
+/*
+ * Footer
+ */
+ .blog-footer {
+    padding: 2.5rem 0;
+    color: #b8b8b8;
+    text-align: center;
+    background-color: #181818;
+    border-top: .05rem solid #e5e5e5;
+    margin-top: 3%;
+  }
+  .blog-footer p:last-child {
+    margin-bottom: 0;
+  }
